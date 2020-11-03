@@ -2,7 +2,7 @@ package Babbar.PlacementSeries;
 
 import java.util.Scanner;
 
-public class App08_SortAndArrayWithoutUsingAnySortingAlgo {
+public class App08_SortAnArrayWithoutUsingAnySortingAlgo {
     static void sortArray(int[] arr) {
         // first count the no of 0's 1's 2's
         int zero=0,one=0,two=0;

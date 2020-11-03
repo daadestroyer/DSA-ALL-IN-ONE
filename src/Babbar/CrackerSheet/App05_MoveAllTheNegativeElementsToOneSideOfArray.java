@@ -24,10 +24,8 @@ public class App05_MoveAllTheNegativeElementsToOneSideOfArray {
                 left++;
                 right--;
             }
-
         }
     }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int S = sc.nextInt();
