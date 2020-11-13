@@ -20,3 +20,15 @@
 
 ![Leetcode 54  Spiral Matrix code1](https://user-images.githubusercontent.com/48306820/98224701-cca80780-1f79-11eb-99f8-9e04be6a8bee.png)
 
+![7  Generic Tree](https://user-images.githubusercontent.com/48306820/99040705-9a1c9100-25af-11eb-8833-f9a05dfd390f.png)
+
+![8  Binary Tree](https://user-images.githubusercontent.com/48306820/99040710-9c7eeb00-25af-11eb-8c2a-1da10c103adb.png)
+
+![9  BST](https://user-images.githubusercontent.com/48306820/99040713-9db01800-25af-11eb-8743-1deccd10b331.png)
+
+![10  Largest Consecutive Sequence](https://user-images.githubusercontent.com/48306820/99040717-9e48ae80-25af-11eb-975b-12e4650ff20e.png)
+
+![11  Stock buy and sell](https://user-images.githubusercontent.com/48306820/99040719-9f79db80-25af-11eb-9c49-15f5088278a5.png)
+
+![12  Stock buy and sell infinite transaction](https://user-images.githubusercontent.com/48306820/99040722-a0ab0880-25af-11eb-89de-8ce640bc87b5.png)
+
