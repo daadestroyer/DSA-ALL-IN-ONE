@@ -32,3 +32,5 @@
 
 ![12  Stock buy and sell infinite transaction](https://user-images.githubusercontent.com/48306820/99040722-a0ab0880-25af-11eb-89de-8ce640bc87b5.png)
 
+![13  Stock buy and sell two transaction allowe](https://user-images.githubusercontent.com/48306820/99040858-dcde6900-25af-11eb-96f4-c44025b65d95.png)
+
