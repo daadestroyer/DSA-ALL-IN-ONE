@@ -2,7 +2,7 @@ package Babbar.CrackerSheet.Arrays;
 
 import java.util.Scanner;
 
-public class App15_LargestProductContigiousSubArray {
+public class App23_LargestProductContigiousSubArray {
 
     static long maxProduct(int[] arr) {
         long curr_max = arr[0];

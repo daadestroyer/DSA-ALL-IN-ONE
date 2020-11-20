@@ -2,7 +2,7 @@ package Babbar.PlacementSeries.Arrays;
 
 import java.util.Scanner;
 
-public class App25_LargestContigiousSumArray {
+public class App25_LargestSumContigiousSubArray_KADANDE_ALGO {
 
     static int largestContigiousSumArray(int[] arr) {
         int curr_sum = arr[0];

@@ -3,7 +3,7 @@ package Babbar.CrackerSheet.Arrays;
 import java.math.*;
 import java.util.Scanner;
 
-public class App10_FactorialOfALargeNumber {
+public class App22_FactorialOfALargeNumber {
 
     static BigInteger factorialOfALargeNumber(int n) {
         BigInteger f = BigInteger.ONE; // f=1

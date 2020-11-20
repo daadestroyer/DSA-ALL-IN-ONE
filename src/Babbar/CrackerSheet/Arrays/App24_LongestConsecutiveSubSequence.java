@@ -3,7 +3,7 @@ package Babbar.CrackerSheet.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class App15_LongestConsecutiveSubSequence {
+public class App24_LongestConsecutiveSubSequence {
     public static void main(String[] args) {
         /* Brute Force : TC-> O(nLogn) : SC-> O(1)
         // --------------------------------------

@@ -2,20 +2,20 @@ package Babbar.CrackerSheet.Arrays;
 
 import java.util.Scanner;
 
-public class App14_LargestContigiousSumArray {
+public class App08_LargestContigiousSumArray {
 
     static int largestContigiousSumArray(int[] arr) {
-        int curr_sum = arr[0];
+        int current_sum = arr[0];
         int overall_sum = arr[0];
 
         for (int i = 1; i < arr.length; i++) {
-            if (curr_sum >= 0) {
-                curr_sum += arr[i];
+            if (current_sum >= 0) {
+                current_sum += arr[i];
             } else {
-                curr_sum = arr[i];
+                current_sum = arr[i];
             }
-            if (curr_sum > overall_sum) {
-                overall_sum = curr_sum;
+            if (current_sum > overall_sum) {
+                overall_sum = current_sum;
             }
         }
         return overall_sum;

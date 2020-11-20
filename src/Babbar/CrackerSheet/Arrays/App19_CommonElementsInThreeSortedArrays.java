@@ -3,7 +3,7 @@ package Babbar.CrackerSheet.Arrays;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class App08_CommonElementsInThreeSortedArrays {
+public class App19_CommonElementsInThreeSortedArrays {
     static ArrayList<Integer> commonElements(int[] arr1, int[] arr2, int[] arr3) {
         ArrayList<Integer> list = new ArrayList<>();
         int i = 0;

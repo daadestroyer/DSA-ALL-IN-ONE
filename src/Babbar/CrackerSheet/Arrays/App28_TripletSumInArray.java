@@ -3,7 +3,7 @@ package Babbar.CrackerSheet.Arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class App12_TripletSumInArray {
+public class App28_TripletSumInArray {
     static int tripletSumInArray(int[] arr , int sum){
         for (int low = 0; low < arr.length; low++) {
             int mid = low+1;
