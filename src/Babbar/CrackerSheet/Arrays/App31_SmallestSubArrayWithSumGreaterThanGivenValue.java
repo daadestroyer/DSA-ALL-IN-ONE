@@ -25,7 +25,7 @@ public class App31_SmallestSubArrayWithSumGreaterThanGivenValue {
     }
 
     static int smallestSubArrayWithSunGreaterThanGivenValue1(int[] ar, int k) {
-        int min_length = ar.length;
+        int min_length = ar.length + 1;
         int start = 0;
         int end = 0;
         int curr_sum = 0;
@@ -38,6 +38,7 @@ public class App31_SmallestSubArrayWithSumGreaterThanGivenValue {
             while (curr_sum > k && start < ar.length) {
                 if (end - start < min_length) {
                     min_length = end - start;
+
                 }
                 curr_sum = curr_sum - ar[start++];
             }
@@ -47,13 +48,20 @@ public class App31_SmallestSubArrayWithSumGreaterThanGivenValue {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int S = sc.nextInt();
-        int k = sc.nextInt();
-        int[] ar = new int[S];
-        for (int i = 0; i < ar.length; i++) {
-            ar[i] = sc.nextInt();
+        int t = sc.nextInt();
+        while (t-- > 0) {
+            int S = sc.nextInt();
+            int k = sc.nextInt();
+            int[] ar = new int[S];
+            for (int i = 0; i < ar.length; i++) {
+                ar[i] = sc.nextInt();
+            }
+            System.out.println(smallestSubArrayWithSunGreaterThanGivenValue1(ar, k));
         }
-        // System.out.println(smallestSubArrayWithSunGreaterThanGivenValue(ar, k));
-        System.out.println(smallestSubArrayWithSunGreaterThanGivenValue1(ar, k));
     }
 }
+/*
+
+6 51
+1 4 45 6 0 19
+*/

@@ -30,11 +30,13 @@ public class App14_MergeIntervals {
             }
         }
         res.add(new int[]{start, end});
-        int[][] ans = new int[res.size()][];
-        for (int i = 0; i < res.size(); i++) {
-            ans[i] = res.get(i);
-        }
-        return ans;
+//        int[][] ans = new int[res.size()][];
+//        for (int i = 0; i < res.size(); i++) {
+//            ans[i] = res.get(i);
+//        }
+
+         // shortcut
+        return res.toArray(new int[0][]);
 
     }
 

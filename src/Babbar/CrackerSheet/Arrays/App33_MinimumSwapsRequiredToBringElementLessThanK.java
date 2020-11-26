@@ -12,15 +12,15 @@ import java.util.Scanner;
 public class App33_MinimumSwapsRequiredToBringElementLessThanK {
 
     static int minimumSwapRequiredToBringElementLessThanK(int[] ar, int k) {
-        int count = 0;
+        int good = 0;
         for (int i : ar) {
             if (i <= k) {
-                count++;
+                good++;
             }
         }
 
         int bad = 0;
-        for (int i = 0; i < count; i++) {
+        for (int i = 0; i < good; i++) {
             if (ar[i] > k) {
                 bad++;
             }
@@ -28,7 +28,7 @@ public class App33_MinimumSwapsRequiredToBringElementLessThanK {
 
         int ans = bad;
 
-        for (int i = 0, j = count; j < ar.length; i++, j++) {
+        for (int i = 0, j = good; j < ar.length; i++, j++) {
             if (ar[i] > k) {
                 --bad;
             }

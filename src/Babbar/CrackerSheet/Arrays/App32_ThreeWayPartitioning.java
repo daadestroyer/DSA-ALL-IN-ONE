@@ -40,3 +40,8 @@ public class App32_ThreeWayPartitioning {
         threeWayPartition(ar, a, b);
     }
 }
+
+/*
+5
+1 2 3 3 4
+*/

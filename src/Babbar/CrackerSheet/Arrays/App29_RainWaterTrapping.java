@@ -37,16 +37,16 @@ public class App29_RainWaterTrapping {
             if (ar[lo] < ar[hi]) {
                 if (ar[lo] > left_max) {
                     left_max = ar[lo];
-                } else {
-                    water += left_max - ar[lo];
                 }
+                water += left_max - ar[lo];
+
                 lo++;
             } else {
                 if (ar[hi] > right_max) {
                     right_max = ar[hi];
-                } else {
-                    water += right_max - ar[hi];
                 }
+                water += right_max - ar[hi];
+
                 hi--;
             }
         }
@@ -63,7 +63,7 @@ public class App29_RainWaterTrapping {
             for (int i = 0; i < ar.length; i++) {
                 ar[i] = sc.nextInt();
             }
-           // System.out.println(rainWaterTrapping(ar));
+            // System.out.println(rainWaterTrapping(ar));
             System.out.println(rainWaterTrappingWithoutSpace(ar));
         }
     }
