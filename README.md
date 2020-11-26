@@ -56,4 +56,6 @@
 
 ![21  Rearrange array alternately](https://user-images.githubusercontent.com/48306820/100080208-915b7300-2e6b-11eb-9da1-162bdf59d916.png)
 
+![22  search element in 2d matrix](https://user-images.githubusercontent.com/48306820/100317712-ce964100-2fe2-11eb-9793-9e182d6d6f38.png)
+
 
