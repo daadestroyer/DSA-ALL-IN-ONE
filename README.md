@@ -34,6 +34,9 @@
 
 ![13  Stock buy and sell two transaction allowe](https://user-images.githubusercontent.com/48306820/99040858-dcde6900-25af-11eb-96f4-c44025b65d95.png)
 
+![22  search element in 2d matrix](https://user-images.githubusercontent.com/48306820/100317712-ce964100-2fe2-11eb-9793-9e182d6d6f38.png)
+
+
 ![14  Merge Interval ](https://user-images.githubusercontent.com/48306820/100080172-87d20b00-2e6b-11eb-9e55-20e3108735e3.png)
 
 ![15  Maximum Product Subarray](https://user-images.githubusercontent.com/48306820/100080178-899bce80-2e6b-11eb-8d16-82771f115c35.png)
