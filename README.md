@@ -34,3 +34,28 @@
 
 ![13  Stock buy and sell two transaction allowe](https://user-images.githubusercontent.com/48306820/99040858-dcde6900-25af-11eb-96f4-c44025b65d95.png)
 
+![22  search element in 2d matrix](https://user-images.githubusercontent.com/48306820/100317712-ce964100-2fe2-11eb-9793-9e182d6d6f38.png)
+
+
+![22  search element in 2d matrix](https://user-images.githubusercontent.com/48306820/100317712-ce964100-2fe2-11eb-9793-9e182d6d6f38.png)
+
+
+![14  Merge Interval ](https://user-images.githubusercontent.com/48306820/100080172-87d20b00-2e6b-11eb-9e55-20e3108735e3.png)
+
+![15  Maximum Product Subarray](https://user-images.githubusercontent.com/48306820/100080178-899bce80-2e6b-11eb-8d16-82771f115c35.png)
+
+![16  Largest Consecutive Sub Sequence](https://user-images.githubusercontent.com/48306820/100080185-8b659200-2e6b-11eb-9d56-0016b4e2b680.png)
+
+![17  Next Permutation](https://user-images.githubusercontent.com/48306820/100080188-8c96bf00-2e6b-11eb-8f4d-46dd91273a49.png)
+
+![18  Rain Water Trapping](https://user-images.githubusercontent.com/48306820/100080191-8dc7ec00-2e6b-11eb-844a-6006886496ae.png)
+
+![19  Minimum Swaps and K togoether](https://user-images.githubusercontent.com/48306820/100080198-8ef91900-2e6b-11eb-9e12-6e80d0bca0c0.png)
+
+![20  Three Way Partitioing](https://user-images.githubusercontent.com/48306820/100080204-902a4600-2e6b-11eb-9652-d6d12d7fdf96.png)
+
+![21  Rearrange array alternately](https://user-images.githubusercontent.com/48306820/100080208-915b7300-2e6b-11eb-9da1-162bdf59d916.png)
+
+![22  search element in 2d matrix](https://user-images.githubusercontent.com/48306820/100317712-ce964100-2fe2-11eb-9793-9e182d6d6f38.png)
+
+
