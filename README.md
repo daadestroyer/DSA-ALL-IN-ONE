@@ -58,4 +58,9 @@
 
 ![22  search element in 2d matrix](https://user-images.githubusercontent.com/48306820/100317712-ce964100-2fe2-11eb-9793-9e182d6d6f38.png)
 
+![23  permutation of String](https://user-images.githubusercontent.com/48306820/100829668-ef99de80-3487-11eb-99f9-fa17f5bbf91f.png)
+
+![24  Distinct Subsequences](https://user-images.githubusercontent.com/48306820/100829672-f163a200-3487-11eb-8a14-c3d828a216d5.png)
+
+
 
