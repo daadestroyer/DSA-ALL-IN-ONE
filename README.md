@@ -64,8 +64,7 @@
 
 ![25  Balanced Paranthesis](https://user-images.githubusercontent.com/48306820/100835960-75238b80-3494-11eb-84de-d36c4b61e7c4.png)
 
-![26  Rabin karp pattern searching algorithm](https://user-images.githubusercontent.com/48306820/100835963-7785e580-3494-11eb-9383-30a351f31b1f.png)
-
+ ![26  Rabin karp pattern searching algorithm](https://user-images.githubusercontent.com/48306820/100836186-de0b0380-3494-11eb-9355-1c5ef9eddcab.png)
 
 
 
