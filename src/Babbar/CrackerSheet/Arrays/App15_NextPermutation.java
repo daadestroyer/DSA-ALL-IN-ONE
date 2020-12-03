@@ -34,13 +34,17 @@ public class App15_NextPermutation {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
-        int S = sc.nextInt();
-        int[] arr = new int[S];
-        for (int i = 0; i < arr.length; i++) {
-            arr[i] = sc.nextInt();
+        int t = sc.nextInt();
+        while (t-- > 0) {
+            int S = sc.nextInt();
+            int[] arr = new int[S];
+            for (int i = 0; i < arr.length; i++) {
+                arr[i] = sc.nextInt();
+            }
+            nextPermutation(arr);
+            for (int i : arr) {
+                System.out.print(i + " ");
+            }
         }
-        nextPermutation(arr);
-        System.out.println(Arrays.toString(arr));
     }
 }
