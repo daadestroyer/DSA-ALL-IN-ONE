@@ -58,4 +58,14 @@
 
 ![22  search element in 2d matrix](https://user-images.githubusercontent.com/48306820/100317712-ce964100-2fe2-11eb-9793-9e182d6d6f38.png)
 
+![23  permutation of String](https://user-images.githubusercontent.com/48306820/100829668-ef99de80-3487-11eb-99f9-fa17f5bbf91f.png)
+
+![24  Distinct Subsequences](https://user-images.githubusercontent.com/48306820/100829672-f163a200-3487-11eb-8a14-c3d828a216d5.png)
+
+![25  Balanced Paranthesis](https://user-images.githubusercontent.com/48306820/100835960-75238b80-3494-11eb-84de-d36c4b61e7c4.png)
+ 
+![26  Rabin karp pattern searching algorithm](https://user-images.githubusercontent.com/48306820/100836395-3b06b980-3495-11eb-8482-956424e3911e.png)
+
+![27  MobileNumbericKeypadSequence](https://user-images.githubusercontent.com/48306820/100972486-e891cf80-355e-11eb-9c5e-3bdddf2b85aa.png)
+
 
