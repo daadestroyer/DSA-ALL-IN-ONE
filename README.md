@@ -68,4 +68,8 @@
 
 ![27  MobileNumbericKeypadSequence](https://user-images.githubusercontent.com/48306820/100972486-e891cf80-355e-11eb-9c5e-3bdddf2b85aa.png)
 
+![30  Valid IP Address 1](https://user-images.githubusercontent.com/48306820/101632556-1342c300-3a4c-11eb-83ed-17824ae89646.PNG)
+
+![31  Valid IP Address 2](https://user-images.githubusercontent.com/48306820/101632560-15a51d00-3a4c-11eb-8548-6c8d65bfb146.PNG)
+
 
