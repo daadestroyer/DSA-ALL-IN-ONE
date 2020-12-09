@@ -22,14 +22,15 @@ public class App21_CountTheReversals {
             }
         }
 
-        System.out.println(stack);
+
         while (!stack.isEmpty()) {
             char ch = stack.pop();
             if (ch == '{') open++;
             else close++;
         }
-        System.out.println("open = "+open+" close = "+close);
-        return (close / 2 + open / 2);
+        System.out.println(open+"=="+close);
+        double res = Math.ceil(open / 2) + Math.ceil(close / 2);
+        return res;
     }
 
     public static void main(String[] args) {
@@ -42,6 +43,8 @@ public class App21_CountTheReversals {
 //            System.out.println(res);
 //        }
 
-        System.out.println((3/2 + 1/2));
+        double ans1 = Math.ceil(3/2);
+        double ans2 = Math.ceil(1/2);
+        System.out.println(ans1+"--"+ans2);
     }
 }
