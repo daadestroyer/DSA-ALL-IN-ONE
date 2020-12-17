@@ -72,4 +72,5 @@
 
 ![31  Valid IP Address 2](https://user-images.githubusercontent.com/48306820/101632560-15a51d00-3a4c-11eb-8548-6c8d65bfb146.PNG)
 
+![32  Search in a rotated array](https://user-images.githubusercontent.com/48306820/102516899-64d6f780-40b5-11eb-856d-82db7fdfb345.PNG)
 
