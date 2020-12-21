@@ -3,6 +3,7 @@ package Babbar.CrackerSheet.Arrays_01;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
@@ -55,9 +56,9 @@ public class App12_MergeTwoSortedArraysWithoutExtraSpace {
             return true;
         }
     }
+
     // BRUTE FORCE APPROACH
-    static void mergeArrayBruteForce(int[] arr1, int[] arr2)
-    {
+    static void mergeArrayBruteForce(int[] arr1, int[] arr2) {
 
         int[] temp = new int[arr1.length + arr2.length];
 
@@ -134,13 +135,29 @@ public class App12_MergeTwoSortedArraysWithoutExtraSpace {
 
             }
         }
-        for(int i : arr1){
-            System.out.print(i+" ");
+        for (int i : arr1) {
+            System.out.print(i + " ");
         }
-        for(int i : arr2){
-            System.out.print(i+" ");
+        for (int i : arr2) {
+            System.out.print(i + " ");
         }
 
+    }
+
+    // Leetcode | Easy 88
+    static void mergeTwoSortedArrayLeetcode(int[] nums1, int m, int[] nums2, int n) {
+        if(nums1.length == 0 || nums2.length == 0) return;
+
+        int end = nums1.length-1;
+        int p1 = m-1;
+        int p2 = n-1;
+
+        while(p1>=0 && p2>=0){
+            nums1[end--] = nums2[p2] > nums1[p1] ? nums2[p2--] : nums1[p1--];
+        }
+        while(p2>=0){
+            nums1[end--] = nums2[p2--];
+        }
     }
 
     public static void main(String[] args) {
@@ -159,5 +176,19 @@ public class App12_MergeTwoSortedArraysWithoutExtraSpace {
         }
         // mergeArrayBruteForce(a1, a2);
         mergeArrayOptimizedApproach(a1, a2);
+        //mergeTwoSortedArrayLeetcode(a1, n, a2, m);
     }
 }
+/*
+4 5
+1 3 5 7
+0 2 6 8 9
+
+2 3
+10 12
+5 18 20
+
+3 3
+1 2 3
+2 5 6
+*/

@@ -4,18 +4,23 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class App02_SearchInRotatedSortedArray {
-    public static  int search(int[] nums, int target) {
-        int rightIndex = nums.length - 1;
-        for(int index = 0; index <= nums.length/2; index++){
-            if(rightIndex >= index){
-                if(target == nums[index]){
-                    return index;
-                }else if(target == nums[rightIndex]){
-                    return rightIndex;
+public class App03_SearchInRotatedSortedArray {
+
+    public static int search(int[] nums, int target) {
+        int hi = nums.length - 1;
+
+        for (int i = 0; i <= nums.length / 2; i++) {
+            if (hi >= i) {
+                if (nums[hi] == target) {
+                    return hi;
+                } else {
+                    if (nums[i] == target) {
+                        return i;
+                    }
                 }
             }
-            rightIndex--;
+
+            hi--;
         }
         return -1;
     }
@@ -29,7 +34,7 @@ public class App02_SearchInRotatedSortedArray {
         }
         int t = sc.nextInt();
 
-        System.out.println(search(ar,t));
+        System.out.println(search(ar, t));
     }
 }
 /*
