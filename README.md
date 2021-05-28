@@ -74,3 +74,6 @@
 
 ![32  Search in a rotated array](https://user-images.githubusercontent.com/48306820/102516899-64d6f780-40b5-11eb-856d-82db7fdfb345.PNG)
 
+![33 getBoardPath](https://user-images.githubusercontent.com/48306820/120000972-f77aab80-bff0-11eb-8824-a30a9f751383.png)
+
+
