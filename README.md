@@ -76,4 +76,5 @@
 
 ![33 getBoardPath](https://user-images.githubusercontent.com/48306820/120000972-f77aab80-bff0-11eb-8824-a30a9f751383.png)
 
+![34 smart keypad](https://user-images.githubusercontent.com/48306820/120526674-15804b80-c3f7-11eb-95df-c905e513cf8f.png)
 
